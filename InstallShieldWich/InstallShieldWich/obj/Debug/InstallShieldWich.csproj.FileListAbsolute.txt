@@ -1,0 +1,14 @@
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.csprojAssemblyReference.cache
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.Form1.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.csproj.GenerateResource.cache
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.csproj.CoreCompileInputs.cache
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.Form2.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.Form3.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.Form4.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallShieldWich.Form5.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\bin\Debug\InstallSwordWich.exe.config
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\bin\Debug\InstallSwordWich.exe
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\bin\Debug\InstallSwordWich.pdb
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallSwordWich.Properties.Resources.resources
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallSwordWich.exe
+C:\Users\magya\source\repos\InstallShieldWich\InstallShieldWich\obj\Debug\InstallSwordWich.pdb
