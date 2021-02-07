@@ -1,0 +1,4 @@
+setup\test1.txt
+test1.txt
+setup\test2.txt
+text2.txt
