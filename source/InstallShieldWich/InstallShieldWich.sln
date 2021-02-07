@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallShieldWich", "InstallShieldWich\InstallShieldWich.csproj", "{D551A5BD-4FD8-497A-ACB0-2574D34FCA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D551A5BD-4FD8-497A-ACB0-2574D34FCA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D551A5BD-4FD8-497A-ACB0-2574D34FCA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D551A5BD-4FD8-497A-ACB0-2574D34FCA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D551A5BD-4FD8-497A-ACB0-2574D34FCA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95528464-FF3D-4EAA-809A-2D75BE136935}
+	EndGlobalSection
+EndGlobal

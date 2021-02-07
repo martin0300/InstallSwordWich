@@ -1,0 +1,14 @@
+Total Cmd Installer
+Welcome to the Total Cmd installer! The Total Cmd installer will guide you thrugh the installer! Press next to continue!
+400
+780
+Total Cmd agreement
+407
+506
+Total Cmd installation location
+TotalCmd
+Installing Total Cmd...
+3
+Installed!
+Total Cmd
+Total Cmd.bat
