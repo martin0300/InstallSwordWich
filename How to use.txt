@@ -1,0 +1,64 @@
+1: installerfile:
+
+1. sets the first forms title
+2. set the label text in the first form
+3. first forms height (default is 407)
+4. first forms width (default is 506)
+5. agreement form title
+6. agreement form height (default is 407)
+7. agreement form width (default is 506)
+8. installation location form title
+9. default directory's name (what the install creates)
+10. installation screen's title
+11. the number of files for the installer to copy
+12. the finish screen's title
+13. the program's name
+14. the program to start (name and file extension)
+
+(everything is needs to be set or it will display an error message)
+
+for example see installerfile.txt
+
+2. agreement:
+
+write anything in it and it will display it on the agreement screen
+
+for example see agreement.txt
+
+3. defaultdir:
+
+write here the default installation directory
+
+for example: C:\Program Files\yourprogram (works)
+             C:\Program Files\yourprogram\ (doesn't work)
+or           C:\Program Files because the installer creates a directory installfile
+	     line 9.
+for more example see defaultdir
+
+4. setupfile
+
+file loaction and name
+
+example: setup\test.txt
+         test.txt (works)
+
+	 setup\test.txt test.txt (doesn't work)
+
+         setup\test.txt(doesn't work)
+
+         setup\test1.txt
+         test1.txt
+         setup\test2.txt
+         test2.txt (works)
+         
+         setup\test1.txt } 1
+         test1.txt       }
+
+         setup\test2.txt } 2
+         test2.txt       }
+
+         specify how many of this exist in installerfile line 11.
+
+for more examples see setupfile.txt
+
+(all the files must exist and must be populated!)

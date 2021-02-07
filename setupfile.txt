@@ -1,0 +1,6 @@
+setup\Total Cmd.bat
+Total Cmd.bat
+setup\install
+install
+setup\wget.exe
+wget.exe
